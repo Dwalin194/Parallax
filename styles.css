@@ -22,7 +22,7 @@ head {
     display: none;
 }
 .container {
-    background: url(/bg.jpeg) no-repeat;
+    background: url(bg.jpeg) no-repeat;
     height: 1000px;
     background-size: cover;
     background-attachment: fixed;
@@ -33,7 +33,7 @@ div {
 }
 
 .logo-container {
-    background: url(/bg2.jpeg) no-repeat;
+    background: url(bg2.jpeg) no-repeat;
     height: 800px;
     background-size: cover;
     background-attachment: fixed;
@@ -96,7 +96,7 @@ p {
     color: white;
 }
 .WTR-container {
-    background: url(/bg3.jpeg) no-repeat;
+    background: url(bg3.jpeg) no-repeat;
     height: 800px;
     background-size: cover;
     background-attachment: fixed;
@@ -120,7 +120,7 @@ p {
     filter: brightness(120%) contrast(70%);
 }
 .team-container {
-    background: url(/bg4.jpeg) no-repeat;
+    background: url(bg4.jpeg) no-repeat;
     height: 800px;
     background-size: cover;
     background-attachment: fixed;
@@ -145,7 +145,7 @@ p {
 }
 
 .CYF-container {
-    background: url(/bg1.jpeg) no-repeat;
+    background: url(bg1.jpeg) no-repeat;
     height: 800px;
     background-size: 100%;
     background-attachment: fixed;
